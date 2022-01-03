@@ -1,0 +1,13 @@
+-rw-r--r-- 1 aueva 197609  1693 Jan  3 22:05 list-commit.txt
+-rw-r--r-- 1 aueva 197609   349 Jan  3 21:58 README.md
+-rw-r--r-- 1 aueva 197609   993 Jan  3 21:17 q
+-rw-r--r-- 1 aueva 197609 43098 Jan  3 20:55 git-cheatsheet.pdf
+
+website-template:
+total 464
+drwxr-xr-x 1 aueva 197609      0 Jan  3 22:05 ../
+drwxr-xr-x 1 aueva 197609      0 Jan  3 21:56 ./
+-rw-r--r-- 1 aueva 197609      0 Jan  3 21:56 style.css
+-rw-r--r-- 1 aueva 197609    934 Jan  3 21:56 index.html
+-rw-r--r-- 1 aueva 197609 460689 Jan  3 20:55 sunset.jpg
+-rw-r--r-- 1 aueva 197609    754 Jan  3 20:55 styles.css
