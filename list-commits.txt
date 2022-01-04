@@ -1,0 +1,73 @@
+Tue Jan  4 13:50:12 AUSEST 2022
+commit c72f13bc55eeda7df30f90c0f251aa03b077e07d
+Author: auevangel <auevangel@gmail.com>
+Date:   Tue Jan 4 13:49:58 2022 +1100
+
+    Latest list of files saved
+
+commit 64d26957f18ab5a890916e75945b9e236f527570
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 3 22:07:08 2022 +1100
+
+    Obtained latest list of commits and files
+
+commit f25be35d211256e12a1357c29187b5e29fcfe7ed
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 3 22:01:14 2022 +1100
+
+    Track other files
+
+commit 06585f26cfed0d6912dd24da5be6268e8a20abfc
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 3 21:59:37 2022 +1100
+
+    Change README.md
+
+commit 6a22aa49242d267efbf2ea173680fe4c766dbc0d
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 3 21:57:43 2022 +1100
+
+    Change to Anna's details
+
+commit 9725920ca992495eb1fdd2d068ba463a5c560dd5
+Author: Christina Truong <hello@christina.fyi>
+Date:   Thu Jan 9 15:52:13 2020 +0000
+
+    README.md edited online with Bitbucket
+
+commit 17f7489af61f866699091fc374c88739f58bd216
+Merge: 1179188 de77dbd
+Author: Christinas MacBook <christinas.test.accnt@gmail.com>
+Date:   Thu Jan 9 10:51:17 2020 -0500
+
+    fixed conflict in readme
+
+commit 1179188841731595b0f501dfa381f7d2539dfe83
+Author: Christinas MacBook <christinas.test.accnt@gmail.com>
+Date:   Thu Jan 9 10:48:55 2020 -0500
+
+    adding revisions
+
+commit de77dbd7fa349e0f5ee1f2fabd5d15df1fa9a688
+Author: Christina Truong <hello@christina.fyi>
+Date:   Thu Dec 19 19:16:51 2019 +0000
+
+    README.md edited online with Bitbucket
+
+commit 11c14d884e64367f4ae06422372700a348750e67
+Author: Christina Truong <hello@christina.fyi>
+Date:   Thu Dec 19 19:16:04 2019 +0000
+
+    README.md edited online with Bitbucket
+
+commit e22e09537b320f08d4c7143c4e735a9fb2e27716
+Author: Christinas MacBook <christinas.test.accnt@gmail.com>
+Date:   Wed Dec 18 04:12:51 2019 -0800
+
+    adding exercise files
+
+commit 394347ed37111519745ec6997a40b8c1de1af4ea
+Author: Christina Truong <hello@christina.fyi>
+Date:   Sun Dec 15 06:01:32 2019 +0000
+
+    Initial commit
